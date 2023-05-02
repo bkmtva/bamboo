@@ -1,2 +1,2 @@
 # bamboo
-Finance manager
+Finance manager bot in progress
